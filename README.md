@@ -1,0 +1,1 @@
+https://python-prompt-toolkit.readthedocs.io/en/master/pages/dialogs.html#styling-reference-sheet
